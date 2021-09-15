@@ -1,0 +1,6 @@
+[INFO] 19:54:27:324 Servidor/(6854:6854): Servidor listo para recibir al cliente
+[INFO] 19:54:42:108 Servidor/(6864:6864): Servidor listo para recibir al cliente
+[INFO] 19:55:24:153 Servidor/(6940:6940): Servidor listo para recibir al cliente
+[INFO] 19:57:19:853 Servidor/(6940:6940): Se conecto un cliente!
+[INFO] 19:57:19:854 Servidor/(6940:6940): Me llego el mensaje valor
+[ERROR] 19:57:30:055 Servidor/(6940:6940): el cliente se desconecto. Terminando servidor

@@ -9,7 +9,8 @@
         ],
         "settings": {
                 "files.associations": {
-                        "client.h": "c"
+                        "client.h": "c",
+                        "config.h": "c"
                 }
         }
 }

@@ -12,6 +12,7 @@ int main(void) {
 		int cod_op = recibir_operacion(cliente_fd);
 		switch (cod_op) {
 		case MENSAJE:
+			send(cliente_fd, 0, sizeof(int), 0);
 			recibir_mensaje(cliente_fd);
 			break;
 		case PAQUETE:
@@ -23,7 +24,9 @@ int main(void) {
 			log_error(logger, "el cliente se desconecto. Terminando servidor");
 			return EXIT_FAILURE;
 		default:
-			log_warning(logger,"Operacion desconocida. No quieras meter la pata");
+			send(cliente_fd, -1, sizeof(int), 0);
+			log_warning(logger,
+					"Operacion desconocida. No quieras meter la pata");
 			break;
 		}
 	}
@@ -31,5 +34,6 @@ int main(void) {
 }
 
 void iterator(char* value) {
-	log_info(logger,"%s", value);
+	printf("Valor: %s\n", value);
+	log_info(logger,"%s\n", value);
 }

@@ -1,0 +1,131 @@
+[INFO] 19:25:01:615 client/(5350:5350): Soy un log!
+[INFO] 19:27:39:221 client/(5400:5400): Soy un log!
+[INFO] 19:28:27:240 client/(5446:5446): Soy un log!
+[INFO] 19:28:50:835 client/(5514:5514): Soy un log!
+[INFO] 19:29:40:574 client/(5612:5612): Soy un log!
+[INFO] 19:30:50:373 client/(5664:5664): Soy un log!
+[INFO] 19:30:50:373 client/(5664:5664): 127.0.0.1
+[INFO] 19:30:50:373 client/(5664:5664): 4444
+[INFO] 19:30:50:373 client/(5664:5664): €RJ1
+[INFO] 19:30:55:464 client/(5664:5664): asdasdasd
+[INFO] 19:31:28:669 client/(5740:5740): Soy un log!
+[INFO] 19:31:28:671 client/(5740:5740): 127.0.0.1
+[INFO] 19:31:28:671 client/(5740:5740): 4444
+[INFO] 19:31:28:671 client/(5740:5740): valor
+[INFO] 19:31:32:128 client/(5740:5740): asdasdd
+[INFO] 19:31:33:335 client/(5740:5740): asdasd
+[INFO] 19:31:33:935 client/(5740:5740): 
+[INFO] 19:34:13:550 client/(5856:5856): Soy un log!
+[INFO] 19:34:13:553 client/(5856:5856): 127.0.0.1
+[INFO] 19:34:13:553 client/(5856:5856): 4444
+[INFO] 19:34:13:553 client/(5856:5856): valor
+[INFO] 19:34:16:498 client/(5856:5856): asdasd
+[INFO] 19:34:17:886 client/(5856:5856): asdasd
+[INFO] 19:34:18:381 client/(5856:5856): 
+[INFO] 19:35:39:876 client/(5929:5929): Soy un log!
+[INFO] 19:35:39:876 client/(5929:5929): 127.0.0.1
+[INFO] 19:35:39:876 client/(5929:5929): 4444
+[INFO] 19:35:39:876 client/(5929:5929): valor
+[INFO] 19:35:41:554 client/(5929:5929): asdasdasd
+[INFO] 19:35:42:621 client/(5929:5929): asdasd
+[INFO] 19:35:43:453 client/(5929:5929): 
+[INFO] 19:38:13:755 client/(5969:5969): Soy un log!
+[INFO] 19:38:13:758 client/(5969:5969): 127.0.0.1
+[INFO] 19:38:13:758 client/(5969:5969): 4444
+[INFO] 19:38:13:758 client/(5969:5969): valor
+[INFO] 19:38:17:044 client/(5969:5969): adasd
+[INFO] 19:38:17:437 client/(5969:5969): 
+[INFO] 19:39:29:617 client/(6042:6042): Soy un log!
+[INFO] 19:39:29:617 client/(6042:6042): 127.0.0.1
+[INFO] 19:39:29:617 client/(6042:6042): 4444
+[INFO] 19:39:29:617 client/(6042:6042): valor
+[INFO] 19:39:33:677 client/(6042:6042): asdasd
+[INFO] 19:39:34:349 client/(6042:6042): asdasd
+[INFO] 19:39:34:817 client/(6042:6042): 
+[INFO] 19:42:29:200 client/(6197:6197): Soy un log!
+[INFO] 19:42:29:200 client/(6197:6197): 127.0.0.1
+[INFO] 19:42:29:200 client/(6197:6197): 4444
+[INFO] 19:42:29:200 client/(6197:6197): valor
+[INFO] 19:42:32:155 client/(6197:6197): asdasd
+[INFO] 19:42:33:147 client/(6197:6197): asdasd
+[INFO] 19:42:33:440 client/(6197:6197): 
+[INFO] 19:42:46:285 client/(6226:6226): Soy un log!
+[INFO] 19:42:46:416 client/(6226:6226): 127.0.0.1
+[INFO] 19:42:46:424 client/(6226:6226): 4444
+[INFO] 19:42:46:432 client/(6226:6226): valor
+[INFO] 19:42:49:011 client/(6226:6226): asdasd
+[INFO] 19:42:50:043 client/(6226:6226): asdasd
+[INFO] 19:42:50:443 client/(6226:6226): 
+[INFO] 19:43:21:702 client/(6269:6269): Soy un log!
+[INFO] 19:43:21:805 client/(6269:6269): 127.0.0.1
+[INFO] 19:43:21:808 client/(6269:6269): 4444
+[INFO] 19:43:21:815 client/(6269:6269): valor
+[INFO] 19:43:23:333 client/(6269:6269): asdasd
+[INFO] 19:43:24:362 client/(6269:6269): asdasdads
+[INFO] 19:43:25:667 client/(6269:6269): a
+[INFO] 19:43:25:931 client/(6269:6269): 
+[INFO] 19:45:32:457 client/(6366:6366): Soy un log!
+[INFO] 19:45:32:556 client/(6366:6366): 127.0.0.1
+[INFO] 19:45:32:579 client/(6366:6366): 4444
+[INFO] 19:45:32:580 client/(6366:6366): valor
+[INFO] 19:45:34:168 client/(6366:6366): asdasd
+[INFO] 19:45:34:938 client/(6366:6366): asdasd
+[INFO] 19:45:35:187 client/(6366:6366): 
+[INFO] 19:46:02:735 client/(6413:6413): Soy un log!
+[INFO] 19:46:02:846 client/(6413:6413): 127.0.0.1
+[INFO] 19:46:02:849 client/(6413:6413): 4444
+[INFO] 19:46:02:855 client/(6413:6413): valor
+[INFO] 19:46:03:960 client/(6413:6413): asdasd
+[INFO] 19:46:04:826 client/(6413:6413): asdsda
+[INFO] 19:46:05:601 client/(6413:6413): 
+[INFO] 19:47:12:732 client/(6459:6459): Soy un log!
+[INFO] 19:47:12:836 client/(6459:6459): 127.0.0.1
+[INFO] 19:47:12:848 client/(6459:6459): 4444
+[INFO] 19:47:12:850 client/(6459:6459): valor
+[INFO] 19:47:14:680 client/(6459:6459): asdsadasd
+[INFO] 19:47:15:994 client/(6459:6459): asdasdsa
+[INFO] 19:47:16:401 client/(6459:6459): 
+[INFO] 19:48:07:995 client/(6516:6516): Soy un log!
+[INFO] 19:48:08:131 client/(6516:6516): 127.0.0.1
+[INFO] 19:48:08:146 client/(6516:6516): 4444
+[INFO] 19:48:08:146 client/(6516:6516): valor
+[INFO] 19:48:11:403 client/(6516:6516): asdasdasd
+[INFO] 19:48:12:202 client/(6516:6516): asdasdasd
+[INFO] 19:48:13:178 client/(6516:6516): asdasdasdad
+[INFO] 19:48:26:151 client/(6564:6564): Soy un log!
+[INFO] 19:48:26:304 client/(6564:6564): 127.0.0.1
+[INFO] 19:48:26:314 client/(6564:6564): 4444
+[INFO] 19:48:26:314 client/(6564:6564): valor
+[INFO] 19:48:30:133 client/(6564:6564): asdalsd
+[INFO] 19:48:30:681 client/(6564:6564): asdasd
+[INFO] 19:48:31:449 client/(6564:6564): asdasdasd
+[INFO] 19:54:50:132 client/(6889:6889): Soy un log!
+[INFO] 19:54:50:133 client/(6889:6889): 127.0.0.1
+[INFO] 19:54:50:133 client/(6889:6889): 4444
+[INFO] 19:54:50:134 client/(6889:6889): valor
+[INFO] 19:55:29:791 client/(6956:6956): Soy un log!
+[INFO] 19:55:29:791 client/(6956:6956): 127.0.0.1
+[INFO] 19:55:29:792 client/(6956:6956): 4444
+[INFO] 19:55:29:793 client/(6956:6956): valor
+[INFO] 19:55:31:903 client/(6956:6956): asdasd
+[INFO] 19:57:11:100 client/(7073:7073): Soy un log!
+[INFO] 19:57:11:101 client/(7073:7073): 127.0.0.1
+[INFO] 19:57:11:101 client/(7073:7073): 4444
+[INFO] 19:57:11:101 client/(7073:7073): valor
+[INFO] 19:57:19:099 client/(7073:7073): asdasd
+[INFO] 19:57:37:279 client/(7132:7132): Soy un log!
+[INFO] 19:57:37:279 client/(7132:7132): 127.0.0.1
+[INFO] 19:57:37:279 client/(7132:7132): 4444
+[INFO] 19:57:37:279 client/(7132:7132): valor
+[INFO] 19:58:44:758 client/(7227:7227): Soy un log!
+[INFO] 19:58:44:760 client/(7227:7227): 127.0.0.1
+[INFO] 19:58:44:760 client/(7227:7227): 4444
+[INFO] 19:58:44:760 client/(7227:7227): valor
+[INFO] 19:58:46:453 client/(7227:7227): asdasd
+[INFO] 19:58:47:301 client/(7227:7227): asdasd
+[INFO] 19:58:56:024 client/(7271:7271): Soy un log!
+[INFO] 19:58:56:026 client/(7271:7271): 127.0.0.1
+[INFO] 19:58:56:027 client/(7271:7271): 4444
+[INFO] 19:58:56:027 client/(7271:7271): valor
+[INFO] 19:59:14:469 client/(7271:7271): asdasd
+[INFO] 19:59:15:638 client/(7271:7271): asdasd
